@@ -1,0 +1,15 @@
+{
+  "headerLogo": "assets/img/home1/header-logo.png",
+  "services": [
+    "assets/img/home1/service-img(1).png",
+    "assets/img/home1/service-img(2).png",
+    "assets/img/home1/service-img(3).png"
+  ],
+  "features": [
+    "assets/img/home1/feature-img(1).png",
+    "assets/img/home1/feature-img(2).png",
+    "assets/img/home1/feature-img(3).png"
+  ],
+  "chooseUs": "assets/img/home1/choose-us-bottom-img.png",
+  "biography": "assets/img/home1/biography-img.png"
+}
